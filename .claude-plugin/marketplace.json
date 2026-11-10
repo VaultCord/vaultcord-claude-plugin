@@ -1,0 +1,15 @@
+{
+  "name": "vaultcord",
+  "owner": {
+    "name": "VaultCord",
+    "email": "abuse@vaultcord.com"
+  },
+  "description": "Official VaultCord plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "vaultcord",
+      "source": "./",
+      "description": "Manage VaultCord-protected Discord servers: members, verification, backups and security."
+    }
+  ]
+}
